@@ -1,6 +1,6 @@
 # AI-Quiz
 
-Adaptive AI Programming Quiz - PyQt5 single-file app
+Adaptive AI Programming Quiz - Python app
 
 Features:
 - Modern dark UI matching provided design (home/quiz/results windows)
@@ -9,3 +9,4 @@ Features:
 - Randomized quiz, smart repetition of wrong questions
 - Explain mode (uses extracted sentence or fallback explanation)
 - Result screen with embedded Matplotlib chart and CSV save
+
